@@ -1,0 +1,51 @@
+STATE_ID,STATE,CITY,COUNTY_NAME,COUNTY_FIPS
+AL,Alabama,BIRMINGHAM,Jefferson,1073
+AK,Alaska,ANCHORAGE,Anchorage,2020
+AR,Arkansas,LITTLE ROCK,Pulaski,5119
+AZ,Arizona,PHOENIX,Maricopa,4013
+CA,California,LOS ANGELES,Los Angeles,6037
+CO,Colorado,DENVER,Denver,8031
+CT,Connecticut,BRIDGEPORT,Fairfield,9001
+DE,Delaware,WILMINGTON,New Castle,10003
+FL,Florida,JACKSONVILLE,Duval,12031
+GA,Georgia,ATLANTA,Fulton,13121
+HI,Hawaii,HONOLULU,Honolulu,15003
+ID,Idaho,BOISE,Ada,16001
+IL,Illinois,CHICAGO,Cook,17031
+IN,Indiana,INDIANAPOLIS,Marion,18097
+IA,Iowa,DES MOINES,Polk,19153
+KS,Kansas,WICHITA,Sedgwick,20173
+KY,Kentucky,LOUISVILLE,Jefferson,21111
+LA,Louisiana,NEW ORLEANS,Orleans,22071
+ME,Maine,PORTLAND,Cumberland,23005
+MD,Maryland,BALTIMORE,Baltimore,24510
+MA,Massachusetts,BOSTON,Suffolk,25025
+MI,Michigan,DETROIT,Wayne,26163
+MN,Minnesota,MINNEAPOLIS,Hennepin,27053
+MS,Mississippi,JACKSON,Hinds,28049
+MO,Missouri,KANSAS CITY,Jackson,29095
+MT,Montana,BILLINGS,Yellowstone,30111
+NE,Nebraska,OMAHA,Douglas,31055
+NV,Nevada,LAS VEGAS,Clark,32003
+NH,New Hampshire,MANCHESTER,Hillsborough,33011
+NJ,New Jersey,NEWARK,Essex,34013
+NM,New Mexico,ALBUQUERQUE,Bernalillo,35001
+NY,New York,NEW YORK,New York,36061
+NC,North Carolina,CHARLOTTE,Mecklenburg,37119
+ND,North Dakota,FARGO,Cass,38017
+OH,Ohio,COLUMBUS,Franklin,39049
+OK,Oklahoma,OKLAHOMA CITY,Oklahoma,40109
+OR,Oregon,PORTLAND,Multnomah,41051
+PA,Pennsylvania,PHILADELPHIA,Philadelphia,42101
+RI,Rhode Island,PROVIDENCE,Providence,44007
+SC,South Carolina,COLUMBIA,Richland,45079
+SD,South Dakota,SIOUX FALLS,Minnehaha,46099
+TN,Tennessee,MEMPHIS,Shelby,47157
+TX,Texas,HOUSTON,Harris,48201
+UT,Utah,SALT LAKE CITY,Salt Lake,49035
+VT,Vermont,BURLINGTON,Chittenden,50007
+VA,Virginia,VIRGINIA BEACH,Virginia Beach,51810
+WA,Washington,SEATTLE,King,53033
+WV,West Virginia,CHARLESTON,Kanawha,54039
+WI,Wisconsin,MILWAUKEE,Milwaukee,55079
+WY,Wyoming,CHEYENNE,Laramie,56021
